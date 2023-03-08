@@ -1,5 +1,5 @@
 # Olá! Eu sou o Victor Gnoatto 🖐️
-<p>Estou no 3° semestre de Análise e Desenv. de Sistemas.</p>
+<p>Estou no 4° semestre de Análise e Desenv. de Sistemas.</p>
 <p>Sou apaixonado por todo tipo de tecnologia e estou sempre em busca de mais informações sobre essa área que é simplesmente maravilhosa.</p>
 <br>
 <div align="center">
