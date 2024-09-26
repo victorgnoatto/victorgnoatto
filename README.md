@@ -1,6 +1,11 @@
 # Olá! Eu sou o Victor Gnoatto 🖐️
 <p>Estou no 5° semestre de Análise e Desenv. de Sistemas.</p>
-<p>Sou apaixonado por todo tipo de tecnologia e estou sempre em busca de mais informações sobre essa área que é simplesmente maravilhosa.</p>
+<p>Atualmente, estou no 5º semestre de Análise e Desenvolvimento de Sistemas na Estácio. Minhas competências centrais incluem Análise de dados, Python, SQL, Power BI e Gestão de Projetos. Tenho conhecimento em HTML, CSS, Javascript, C++.
+
+Em meu estágio na Enel, adquiri conhecimentos essenciais em qualidade de software, desenho de processos, testes, análise de requisitos, resolução de incidentes e problemas. Meu foco principal estava na análise de negócios e requisitos, buscando otimizar processos e implementar soluções eficazes. Durante esse período, apliquei os fundamentos aprendidos em Gestão de Projetos para apoiar as iniciativas e garantir entregas alinhadas aos objetivos estratégicos da empresa.
+
+Valorizo o trabalho colaborativo e estou motivado a trazer perspectivas inovadoras para a equipe. Com dedicação e conhecimento técnico, almejo contribuir significativamente para os objetivos da organização e para o sucesso de projetos em conjunto.</p>
+
 <br>
 <div align="center">
   <a href="https://github.com/victorgnoatto">
