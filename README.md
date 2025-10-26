@@ -1,8 +1,6 @@
 # Olá! Eu sou o Victor Gnoatto 🖐️
-<p>Estou no 5° semestre de Análise e Desenv. de Sistemas.</p>
-<p>Atualmente, estou no 5º semestre de Análise e Desenvolvimento de Sistemas na Estácio. Minhas competências centrais incluem Análise de dados, Python, SQL, Power BI e Gestão de Projetos. Tenho conhecimento em HTML, CSS, Javascript, C++.
 
-Atualmente, atuo como Pesquisador Científico na área de Inteligência Artificial na Ford, contribuindo para o desenvolvimento e aplicação de soluções baseadas em IA e Large Language Models (LLMs). Minha atuação envolve pesquisa aplicada, experimentação de modelos e colaboração multidisciplinar com equipes de engenharia e tecnologia, apoiando iniciativas que impulsionam a inovação, a eficiência e a transformação digital dentro da empresa.
+<p>Atualmente, atuo como Pesquisador Científico na área de Inteligência Artificial na Ford, contribuindo para o desenvolvimento e aplicação de soluções baseadas em IA e Large Language Models (LLMs). Minha atuação envolve pesquisa aplicada, experimentação de modelos e colaboração multidisciplinar com equipes de engenharia e tecnologia, apoiando iniciativas que impulsionam a inovação, a eficiência e a transformação digital dentro da empresa.
 
 Sou formado em Análise e Desenvolvimento de Sistemas pela Estácio e atualmente curso Pós-Graduação em Data Science e MBE em Artificial Intelligence, formações que fortalecem minha base técnica e me permitem atuar de forma integrada em todas as etapas do ciclo de desenvolvimento, análise e implementação de soluções tecnológicas.
 
