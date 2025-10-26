@@ -2,9 +2,15 @@
 <p>Estou no 5° semestre de Análise e Desenv. de Sistemas.</p>
 <p>Atualmente, estou no 5º semestre de Análise e Desenvolvimento de Sistemas na Estácio. Minhas competências centrais incluem Análise de dados, Python, SQL, Power BI e Gestão de Projetos. Tenho conhecimento em HTML, CSS, Javascript, C++.
 
-Em meu estágio na Enel, adquiri conhecimentos essenciais em qualidade de software, desenho de processos, testes, análise de requisitos, resolução de incidentes e problemas. Meu foco principal estava na análise de negócios e requisitos, buscando otimizar processos e implementar soluções eficazes. Durante esse período, apliquei os fundamentos aprendidos em Gestão de Projetos para apoiar as iniciativas e garantir entregas alinhadas aos objetivos estratégicos da empresa.
+Atualmente, atuo como Pesquisador Científico na área de Inteligência Artificial na Ford, contribuindo para o desenvolvimento e aplicação de soluções baseadas em IA e Large Language Models (LLMs). Minha atuação envolve pesquisa aplicada, experimentação de modelos e colaboração multidisciplinar com equipes de engenharia e tecnologia, apoiando iniciativas que impulsionam a inovação, a eficiência e a transformação digital dentro da empresa.
 
-Valorizo o trabalho colaborativo e estou motivado a trazer perspectivas inovadoras para a equipe. Com dedicação e conhecimento técnico, almejo contribuir significativamente para os objetivos da organização e para o sucesso de projetos em conjunto.</p>
+Sou formado em Análise e Desenvolvimento de Sistemas pela Estácio e atualmente curso Pós-Graduação em Data Science e MBE em Artificial Intelligence, formações que fortalecem minha base técnica e me permitem atuar de forma integrada em todas as etapas do ciclo de desenvolvimento, análise e implementação de soluções tecnológicas.
+
+--
+
+Currently, I work as a Scientific Researcher in Artificial Intelligence at Ford, contributing to the development and application of AI and Large Language Model (LLM)-based solutions. My role involves applied research, model experimentation, and multidisciplinary collaboration with engineering and technology teams, supporting initiatives that drive innovation, efficiency, and digital transformation within the company.
+
+I hold a degree in Systems Analysis and Development from Estácio and am currently pursuing Postgraduate studies in Data Science and an MBE in Artificial Intelligence. These programs strengthen my technical foundation and enable me to work comprehensively across all stages of the development, analysis, and implementation cycle of technological solutions.</p>
 
 <br>
 <div align="center">
@@ -25,7 +31,7 @@ Valorizo o trabalho colaborativo e estou motivado a trazer perspectivas inovador
 <div> 
   <a href="https://instagram.com/victorgnno" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href = "mailto:victorgnoatto@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
-  <a href="www.linkedin.com/in/victorgnoatto" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/victorgnoatto/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 </div>
   
